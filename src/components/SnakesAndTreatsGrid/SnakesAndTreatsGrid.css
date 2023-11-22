@@ -1,0 +1,8 @@
+.main-grid {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+}
